@@ -1,0 +1,22 @@
+{
+  "name": "grunt-intro",
+  "version": "0.0.0",
+  "description": "Introduction to Grunt",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tamaspiros/grunt-intro.git"
+  },
+  "author": "Tamas Piros",
+  "license": "BSD",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-uglify": "~0.2.7",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-less": "~0.8.2",
+    "grunt-remove-logging": "~0.1.1"
+  }
+}
