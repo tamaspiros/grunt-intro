@@ -4,6 +4,7 @@ First make sure that you intall <code>grunt-cli</code>:
 
 <pre>npm install -g grunt-cli</pre>
 
-Then, execute:<code>npm install</code>
+Then
+<pre>npm install</pre>
 
-Once all the above is done, run <code>grunt</code> for executing the registered tasks
+Once all the above is done, run <code>grunt</code> for executing the registered tasks.
